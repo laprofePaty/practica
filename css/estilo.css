@@ -38,7 +38,9 @@ h1{
 
 img{
 	margin: auto;
-	width: 40%;
+	/*width: 40%;*/
+	width: 10em;
+	height: 10em;
 	/*height: 400px;*/
 	background: cyan;
 	display:block;
