@@ -16,7 +16,7 @@ h1{
 	text-align: center;
 	color: cyan;
 	font-size: 5em;
-	text-shadow: 5px 5px gray;
+	text-shadow: 10px 10px gray;
 }
 .prop-col{
 	padding: 15px;
