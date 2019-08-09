@@ -50,7 +50,16 @@ h2{
 	text-align: center;
 	text-shadow: 3px 2px cyan;
 }
-#t2{
+.t2{
 	color: white;
 	text-shadow: 3px 2px black;
+}
+#redessoc{
+	margin: auto;
+	display: flex;
+}
+.img-soc{
+	width: 3em;
+	height: 3em;
+	border-radius: 50%;
 }
