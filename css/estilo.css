@@ -9,18 +9,18 @@ div{
 #encabezado{
 	width: 100%;
 	height: 100px;
-	background: cyan;
+	background: #17A589;
 	padding: 1em;
 }
 h1{
 	text-align: center;
-	color: cyan;
+	color: #17A589;
 	font-size: 5em;
 	text-shadow: 10px 10px gray;
 }
 .prop-col{
 	padding: 15px;
-	border: 1px solid cyan;
+	border: 1px solid #17A589;
 	display: block;
 	/*width: 100%;*/
 }
@@ -31,7 +31,7 @@ h1{
 }
 #lado-der{
 	width: 45%;
-	background: cyan;
+	background: #17A589;
 	float: left;
 	font-size: 1.25em;
 }
@@ -42,7 +42,7 @@ img{
 	width: 13em;
 	height: 17em;
 	/*height: 400px;*/
-	background: cyan;
+	background: #17A589;
 	display:block;
 	/*lo anterior ayuda a centrar*/
 	border-radius: 50%;
@@ -50,7 +50,7 @@ img{
 }
 h2{
 	text-align: center;
-	text-shadow: 3px 3px cyan;
+	text-shadow: 3px 3px #17A589;
 }
 .t2{
 	color: white;
